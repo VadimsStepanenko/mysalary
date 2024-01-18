@@ -1,2 +1,2 @@
 # mysalary
-"Katru mēnesi es gaidu savu algu, un man katru reizi ir interesanti, kad alga būs, tāpēc man radās ideja projektam - uzrakstīt programmu, kura skaita manu algu."
+""Katru mēnesi es gaidu savu algu, un man katru reizi ir interesanti, kad alga būs. Tāpēc man radās ideja projektam - uzrakstīt programmu, kura skaita manu algu. Es izmantoju .xlsx failu, kurā ir redzams, kad un cik es strādāju, kā arī visi mani bonusi stundā. Es izmantoju 'openpyxl' bibliotēku, jo man bija nepieciešams atvērt failu un nolasīt informāciju no tā. Es izmantoju vienu ciklu, lai programma savāktu visus datus no nepieciešamās kolonnas un pēc tam sumētu tos. Tāpat es izmantoju operatoru 'if', lai programma sumētu tikai skaitļus."
